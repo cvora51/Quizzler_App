@@ -1,10 +1,22 @@
-# quizzler
+# Quizzler
 
-A new Flutter application.
+A simple QUIZ application based on True or False type Questions.
+It contains a number of general knowledge questions along with their respective true or false answers.
+The answer will be displayed at bottom of the screen.
+Once you solve all questions you will get a prompt to reset the Quiz.
 
-## Getting Started
+![Main Screen](./Screenhots/SS1.jpg)
 
-This project is a starting point for a Flutter application.
+![Main Screen](./Screenshots/SS2.jpg)
+
+![Main Screen](./Screenshots/SS3.jpg)
+
+Some of the key functionalities of this app includes:
+-> OOP classes and objects.
+-> Abstraction.
+-> Encapsulation.
+-> Inheritance.
+-> Polymorphism.
 
 A few resources to get you started if this is your first Flutter project:
 
